@@ -64,18 +64,8 @@ water-potability-predictor/
 
   * pH, Hardness, Solids, Chloramines, Sulfate, Conductivity, Organic Carbon, Trihalomethanes, Turbidity
 
----
 
-## ⚙️ Installation
 
-```bash
-git clone https://github.com/your-username/water-potability-predictor.git
-cd water-potability-predictor
-pip install -r requirements.txt
-streamlit run app.py
-```
-
----
 
 ## ✅ Model Performance Summary
 
@@ -133,7 +123,6 @@ Save this in your `requirements.txt`.
 
 **Pasupuleti Mounika**
 🎓 B.Tech CSE (AI & ML), PVP Siddhartha Institute of Technology
-🔗 [LinkedIn – Possibility Mounika](https://www.linkedin.com/in/possibilitymounika)
 📧 [mounikapossibility72@gmail.com](mailto:mounikapossibility72@gmail.com)
 
 
