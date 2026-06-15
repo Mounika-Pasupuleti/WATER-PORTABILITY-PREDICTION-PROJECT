@@ -2,12 +2,12 @@
 
 A Streamlit-based Machine Learning Web Application that predicts whether water is safe for drinking based on its physical and chemical properties.
 
-##  Live Demo
 
 
-## 🔗 Live Demo [Water Potability Prediction App](https://water-portability-prediction-project-fafbhfzaffxmlvyyfdha9d.streamlit.app)
 
----
+##  Live Demo [Water Potability Prediction App](https://water-portability-prediction-project-fafbhfzaffxmlvyyfdha9d.streamlit.app)
+
+
 
 ##  Project Overview
 
@@ -15,7 +15,7 @@ Access to safe drinking water is one of the most important public health concern
 
 The application provides real-time predictions through an interactive Streamlit interface and compares the performance of multiple classification models.
 
----
+
 
 ##  Objectives
 
@@ -25,7 +25,7 @@ The application provides real-time predictions through an interactive Streamlit 
 * Visualize evaluation metrics and confusion matrices.
 * Provide an easy-to-use web interface for end users.
 
----
+
 
 ##  Features
 
@@ -45,7 +45,6 @@ Comparison of multiple ML algorithms
 
  Model performance comparison
 
----
 
 ##  Technology Stack
 
@@ -140,9 +139,9 @@ Dataset Source: Kaggle Water Potability Dataset
 * Probabilistic Classification
 * Fast Training and Prediction
 
----
 
-## 📈 Model Performance
+
+## Model Performance
 
 | Algorithm           | Tuning Status     | Training Accuracy | Testing Accuracy |
 | ------------------- | ----------------- | ----------------- | ---------------- |
@@ -269,9 +268,8 @@ B.Tech – Computer Science Engineering (AI & ML)
 
 PVP Siddhartha Institute of Technology
 
-📧 Email: [mounikapossibility72@gmail.com](mailto:mounikapossibility72@gmail.com)
+ Email: [mounikapossibility72@gmail.com](mailto:mounikapossibility72@gmail.com)
 
----
 
 ##  Support
 
