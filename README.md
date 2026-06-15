@@ -4,8 +4,9 @@ A Streamlit-based Machine Learning Web Application that predicts whether water i
 
 ##  Live Demo
 
-**Deployed Application:**
-water-portability-prediction-project-fafbhfzaffxmlvyyfdha9d.streamlit.app
+
+## 🔗 Live Demo
+ [Water Potability Prediction App](https://water-portability-prediction-project-fafbhfzaffxmlvyyfdha9d.streamlit.app)
 
 ---
 
