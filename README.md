@@ -5,7 +5,7 @@ A Streamlit-based Machine Learning Web Application that predicts whether water i
 ##  Live Demo
 
 **Deployed Application:**
-https://water-portability-prediction-project-13579.streamlit.app/
+water-portability-prediction-project-fafbhfzaffxmlvyyfdha9d.streamlit.app
 
 ---
 
