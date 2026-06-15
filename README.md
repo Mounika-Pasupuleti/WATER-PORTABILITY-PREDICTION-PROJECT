@@ -124,7 +124,7 @@ Save this in your `requirements.txt`.
 **Pasupuleti Mounika**
 🎓 B.Tech CSE (AI & ML), PVP Siddhartha Institute of Technology
 📧 [mounikapossibility72@gmail.com](mailto:mounikapossibility72@gmail.com)
-HERE IS THE DEPLOYMENTLINK:water-portability-prediction-project-13579.streamlit.app
+HERE IS THE DEPLOYMENTLINK:[water-portability-prediction-project-13579.streamlit.app]
 
 
 ### 🌟 If you liked this project, give it a ⭐ and share it with others!
